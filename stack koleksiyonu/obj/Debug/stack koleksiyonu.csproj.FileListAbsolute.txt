@@ -1,0 +1,10 @@
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\stack koleksiyonu\stack koleksiyonu\bin\Debug\stack koleksiyonu.exe.config
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\stack koleksiyonu\stack koleksiyonu\bin\Debug\stack koleksiyonu.exe
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\stack koleksiyonu\stack koleksiyonu\bin\Debug\stack koleksiyonu.pdb
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\stack koleksiyonu\stack koleksiyonu\obj\Debug\stack koleksiyonu.csproj.AssemblyReference.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\stack koleksiyonu\stack koleksiyonu\obj\Debug\stack_koleksiyonu.Form1.resources
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\stack koleksiyonu\stack koleksiyonu\obj\Debug\stack_koleksiyonu.Properties.Resources.resources
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\stack koleksiyonu\stack koleksiyonu\obj\Debug\stack koleksiyonu.csproj.GenerateResource.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\stack koleksiyonu\stack koleksiyonu\obj\Debug\stack koleksiyonu.csproj.CoreCompileInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\stack koleksiyonu\stack koleksiyonu\obj\Debug\stack koleksiyonu.exe
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\stack koleksiyonu\stack koleksiyonu\obj\Debug\stack koleksiyonu.pdb
